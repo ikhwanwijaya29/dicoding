@@ -1,12 +1,11 @@
-# Dicoding Submission: "Learning Data Analytics with Python"
+## Final Project Submission for Dicoding: "Learning Data Analytics with Python"
 
 ## Data Analytics Project
 
-Repository ini berisi proyek data analytics yang telah saya kerjakan. Proyek ini dideploy menggunakan **Streamlit** <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Logo Streamlit"></img>
+This repository comprises the data analytics project that I have completed. The project is deployed using Streamlit <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit Logo"></img>
 
-## Deskripsi
-
-Proyek ini bertujuan untuk melakukan analisis terhadap data dari E-Commerce Public Dataset. Tujuan utamanya adalah untuk menghasilkan wawasan dan informasi yang berguna dari data yang telah dianalisis.
+## Description
+The project's objective is to conduct an analysis of the data from the E-Commerce Public Dataset. The primary goal is to generate insights and valuable information from the analyzed data.
 
 ## Struktur Direktori
 
